@@ -1,0 +1,132 @@
+
+Processing gene sequence: GGCACTGAA
+Initial gene probabilities:
+P(A|Start) = 0
+P(C|Start) = 0
+P(G|Start) = 1
+P(T|Start) = 0
+Transition probabilities:
+P(A|A) = 0.5
+P(C|A) = 0.5
+P(G|A) = 0.0
+P(T|A) = 0.0
+P(A|C) = 0.5
+P(C|C) = 0.0
+P(G|C) = 0.0
+P(T|C) = 0.5
+P(A|G) = 0.3333333333333333
+P(C|G) = 0.3333333333333333
+P(G|G) = 0.3333333333333333
+P(T|G) = 0.0
+P(A|T) = 0.0
+P(C|T) = 0.0
+P(G|T) = 1.0
+P(T|T) = 0.0
+
+Iteration 1:
+Next gene probabilities:
+P(A|t=1) = 0.3333333333333333
+P(C|t=1) = 0.3333333333333333
+P(G|t=1) = 0.3333333333333333
+P(T|t=1) = 0.0
+Next observation probabilities:
+P(H|t=1) = 0.26666666666666666
+P(L|t=1) = 0.23333333333333334
+G1 given H1 = 0.375
+G1 given L1 = 0.2857142857142857
+
+Iteration 2:
+Next gene probabilities:
+P(A|t=2) = 0.4444444444444444
+P(C|t=2) = 0.2777777777777778
+P(G|t=2) = 0.1111111111111111
+P(T|t=2) = 0.16666666666666666
+Next observation probabilities:
+P(H|t=2) = 0.23888888888888887
+P(L|t=2) = 0.2611111111111111
+G2 given H2 = 0.13953488372093023
+G2 given L2 = 0.0851063829787234
+
+Iteration 3:
+Next gene probabilities:
+P(A|t=3) = 0.39814814814814814
+P(C|t=3) = 0.25925925925925924
+P(G|t=3) = 0.2037037037037037
+P(T|t=3) = 0.1388888888888889
+Next observation probabilities:
+P(H|t=3) = 0.2462962962962963
+P(L|t=3) = 0.2537037037037037
+C3 given H3 = 0.3157894736842105
+C3 given L3 = 0.20437956204379562
+
+Iteration 4:
+Next gene probabilities:
+P(A|t=4) = 0.3966049382716049
+P(C|t=4) = 0.2669753086419753
+P(G|t=4) = 0.20679012345679013
+P(T|t=4) = 0.12962962962962962
+Next observation probabilities:
+P(H|t=4) = 0.24737654320987654
+P(L|t=4) = 0.25262345679012344
+A4 given H4 = 0.32064878353087967
+A4 given L4 = 0.47098350641417225
+
+Iteration 5:
+Next gene probabilities:
+P(A|t=5) = 0.40072016460905346
+P(C|t=5) = 0.2672325102880658
+P(G|t=5) = 0.198559670781893
+P(T|t=5) = 0.13348765432098764
+Next observation probabilities:
+P(H|t=5) = 0.24657921810699585
+P(L|t=5) = 0.2534207818930041
+C5 given H5 = 0.32512777719828934
+C5 given L5 = 0.21090023343144224
+
+Iteration 6:
+Next gene probabilities:
+P(A|t=6) = 0.4001628943758573
+P(C|t=6) = 0.2665466392318244
+P(G|t=6) = 0.1996742112482853
+P(T|t=6) = 0.1336162551440329
+Next observation probabilities:
+P(H|t=6) = 0.24662208504801097
+P(L|t=6) = 0.253377914951989
+T6 given H6 = 0.10835708822915943
+T6 given L6 = 0.1582019354402111
+
+Iteration 7:
+Next gene probabilities:
+P(A|t=7) = 0.399912837219936
+P(C|t=7) = 0.2666395176040237
+P(G|t=7) = 0.200174325560128
+P(T|t=7) = 0.1332733196159122
+Next observation probabilities:
+P(H|t=7) = 0.24668138431641515
+P(L|t=7) = 0.2533186156835848
+G7 given H7 = 0.24344073564549995
+G7 given L7 = 0.15804154386360753
+
+Iteration 8:
+Next gene probabilities:
+P(A|t=8) = 0.4000009525986892
+P(C|t=8) = 0.2666811937966773
+P(G|t=8) = 0.19999809480262154
+P(T|t=8) = 0.13331975880201186
+Next observation probabilities:
+P(H|t=8) = 0.24666792885992986
+P(L|t=8) = 0.25333207114007006
+A8 given H8 = 0.32432343713870426
+A8 given L8 = 0.47368769867774574
+
+Iteration 9:
+Next gene probabilities:
+P(A|t=9) = 0.40000710479855706
+P(C|t=9) = 0.2666665079002184
+P(G|t=9) = 0.1999857904028857
+P(T|t=9) = 0.13334059689833866
+Next observation probabilities:
+P(H|t=9) = 0.24666522983031036
+P(L|t=9) = 0.2533347701696895
+A9 given H9 = 0.3243319742095276
+A9 given L9 = 0.47368993746569765

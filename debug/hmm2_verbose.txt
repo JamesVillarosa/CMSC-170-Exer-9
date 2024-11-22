@@ -1,0 +1,171 @@
+
+Processing gene sequence: ACTAGATGTA
+Initial gene probabilities:
+P(A|Start) = 1
+P(C|Start) = 0
+P(G|Start) = 0
+P(T|Start) = 0
+Transition probabilities:
+P(A|A) = 0.0
+P(C|A) = 0.3333333333333333
+P(G|A) = 0.3333333333333333
+P(T|A) = 0.3333333333333333
+P(A|C) = 0.0
+P(C|C) = 0.0
+P(G|C) = 0.0
+P(T|C) = 1.0
+P(A|G) = 0.5
+P(C|G) = 0.0
+P(G|G) = 0.0
+P(T|G) = 0.5
+P(A|T) = 0.6666666666666666
+P(C|T) = 0.0
+P(G|T) = 0.3333333333333333
+P(T|T) = 0.0
+
+Iteration 1:
+Next gene probabilities:
+P(A|t=1) = 0.0
+P(C|t=1) = 0.3333333333333333
+P(G|t=1) = 0.3333333333333333
+P(T|t=1) = 0.3333333333333333
+Next observation probabilities:
+P(H|t=1) = 0.16999999999999998
+P(L|t=1) = 0.32999999999999996
+A1 given H1 = 0.0
+
+Iteration 2:
+Next gene probabilities:
+P(A|t=2) = 0.38888888888888884
+P(C|t=2) = 0.0
+P(G|t=2) = 0.1111111111111111
+P(T|t=2) = 0.5
+Next observation probabilities:
+P(H|t=2) = 0.24999999999999997
+P(L|t=2) = 0.25
+A2 given H2 = 0.7622222222222222
+
+Iteration 3:
+Next gene probabilities:
+P(A|t=3) = 0.38888888888888884
+P(C|t=3) = 0.1296296296296296
+P(G|t=3) = 0.2962962962962963
+P(T|t=3) = 0.18518518518518515
+Next observation probabilities:
+P(H|t=3) = 0.33888888888888885
+P(L|t=3) = 0.16111111111111107
+G3 given L3 = 0.018390804597701153
+
+Processing gene sequence: TAAAGTC
+Initial gene probabilities:
+P(A|Start) = 0
+P(C|Start) = 0
+P(G|Start) = 0
+P(T|Start) = 1
+Transition probabilities:
+P(A|A) = 0.6666666666666666
+P(C|A) = 0.0
+P(G|A) = 0.3333333333333333
+P(T|A) = 0.0
+P(A|C) = 0
+P(C|C) = 0
+P(G|C) = 0
+P(T|C) = 0
+P(A|G) = 0.0
+P(C|G) = 0.0
+P(G|G) = 0.0
+P(T|G) = 1.0
+P(A|T) = 0.5
+P(C|T) = 0.5
+P(G|T) = 0.0
+P(T|T) = 0.0
+
+Iteration 1:
+Next gene probabilities:
+P(A|t=1) = 0.5
+P(C|t=1) = 0.5
+P(G|t=1) = 0.0
+P(T|t=1) = 0.0
+Next observation probabilities:
+P(H|t=1) = 0.25
+P(L|t=1) = 0.25
+A1 given H1 = 0.98
+
+Iteration 2:
+Next gene probabilities:
+P(A|t=2) = 0.3333333333333333
+P(C|t=2) = 0.0
+P(G|t=2) = 0.16666666666666666
+P(T|t=2) = 0.0
+Next observation probabilities:
+P(H|t=2) = 0.245
+P(L|t=2) = 0.004999999999999999
+A2 given H2 = 0.6666666666666666
+
+Iteration 3:
+Next gene probabilities:
+P(A|t=3) = 0.2222222222222222
+P(C|t=3) = 0.0
+P(G|t=3) = 0.1111111111111111
+P(T|t=3) = 0.16666666666666666
+Next observation probabilities:
+P(H|t=3) = 0.165
+P(L|t=3) = 0.08499999999999999
+G3 given L3 = 0.013071895424836602
+
+Processing gene sequence: AATAAT
+Initial gene probabilities:
+P(A|Start) = 1
+P(C|Start) = 0
+P(G|Start) = 0
+P(T|Start) = 0
+Transition probabilities:
+P(A|A) = 0.5
+P(C|A) = 0.0
+P(G|A) = 0.0
+P(T|A) = 0.5
+P(A|C) = 0
+P(C|C) = 0
+P(G|C) = 0
+P(T|C) = 0
+P(A|G) = 0
+P(C|G) = 0
+P(G|G) = 0
+P(T|G) = 0
+P(A|T) = 1.0
+P(C|T) = 0.0
+P(G|T) = 0.0
+P(T|T) = 0.0
+
+Iteration 1:
+Next gene probabilities:
+P(A|t=1) = 0.5
+P(C|t=1) = 0.0
+P(G|t=1) = 0.0
+P(T|t=1) = 0.5
+Next observation probabilities:
+P(H|t=1) = 0.25
+P(L|t=1) = 0.25
+A1 given H1 = 0.98
+
+Iteration 2:
+Next gene probabilities:
+P(A|t=2) = 0.75
+P(C|t=2) = 0.0
+P(G|t=2) = 0.0
+P(T|t=2) = 0.25
+Next observation probabilities:
+P(H|t=2) = 0.37
+P(L|t=2) = 0.13
+A2 given H2 = 0.9932432432432432
+
+Iteration 3:
+Next gene probabilities:
+P(A|t=3) = 0.625
+P(C|t=3) = 0.0
+P(G|t=3) = 0.0
+P(T|t=3) = 0.375
+Next observation probabilities:
+P(H|t=3) = 0.31
+P(L|t=3) = 0.19
+G3 given L3 = 0.0
